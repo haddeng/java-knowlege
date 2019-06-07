@@ -1,6 +1,6 @@
 package com.hadden.java.core;
 
-public class JavaString {
+public class JavaStrings {
 
     public static void main(String[] args) {
         String s = "Hello World"; // Must be initialized (even to null) if used to compile

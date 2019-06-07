@@ -1,6 +1,6 @@
 package com.hadden.java.core;
 
-public class JavaPrimative {
+public class JavaPrimatives {
 
     public static void main(String[] args) {
         boolean boolean1; // Unknown size

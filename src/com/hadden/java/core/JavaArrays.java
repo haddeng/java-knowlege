@@ -2,7 +2,7 @@ package com.hadden.java.core;
 
 import java.util.Arrays;
 
-public class JavaArray {
+public class JavaArrays {
 
     public static void main(String[] args) {
         // Declare and initialize
