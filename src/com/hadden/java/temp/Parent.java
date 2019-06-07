@@ -1,3 +1,5 @@
+package com.hadden.java.temp;
+
 public class Parent {
 
     protected int data = 5;
